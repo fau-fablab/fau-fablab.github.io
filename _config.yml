@@ -1,0 +1,12 @@
+# Site settings
+title: FAU FabLab GitHub page
+email: kontakt@fablab.fau.de
+description: "TODO description"
+baseurl: ""
+url: "https://fablab.fau.de"
+twitter_username: FAUFabLab
+github_username:  fau-fablab
+
+# Build settings
+markdown: kramdown
+permalink: pretty
