@@ -1,4 +1,4 @@
 fau-fablab.github.io
 ====================
 
-Diese Website ist eine Überblicksseite über alle Repositories auf GitHub, die für das FAU FabLab wichtig sind.
+Falls jemandem eine sinnvolle Anwendung für diese GitHub Seite einfällt, kann er gerne was machen.
